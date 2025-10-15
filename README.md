@@ -53,3 +53,6 @@ If the matrix is your battlefield, we provide you with the armor and the code.
 <p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 
+Verified KORE Gmail: koreintel.data@gmail.com
+Verified Github of KORE: kore-data-support
+
